@@ -1,0 +1,8 @@
+{
+  "name": "IPTV Streamer Pro Premium",
+  "description": "A premium web-based IPTV streaming application with advanced Gemini AI features, real-time Hindi dubbing, and administrative control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
